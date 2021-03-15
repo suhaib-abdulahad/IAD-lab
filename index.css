@@ -1,0 +1,18 @@
+body {
+  background-image: url("./background.jpg");
+  background-size: 100%;
+}
+
+.email {
+  color: white;
+  margin: 10% 10% 0% 10%;
+}
+.name {
+  color: white;
+  margin: 0% 10%;
+  justify-content: center;
+}
+
+.male {
+  padding-top: 3%;
+}
